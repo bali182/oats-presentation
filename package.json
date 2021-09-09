@@ -9,6 +9,9 @@
   "scripts": {
     "pres-init": "fusuma init",
     "start": "fusuma start",
-    "build": "fusuma build"
+    "build": "fusuma build && rename dist docs"
+  },
+  "devDependencies": {
+    "rename-cli": "^6.2.1"
   }
 }
