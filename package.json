@@ -1,0 +1,14 @@
+{
+  "name": "oats-presentation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "fusuma": "2.8.4"
+  },
+  "scripts": {
+    "pres-init": "fusuma init",
+    "start": "fusuma start",
+    "build": "fusuma build"
+  }
+}
