@@ -20,7 +20,6 @@
 
 ---
 
-
 <!-- fragments-start -->
 
 <!-- block-start: red -->
